@@ -1,0 +1,1 @@
+<h3 class="fixed-bottom text-center" style="background-color: #fd7e14; margin-bottom: 0;">Secrets Manager &#169;2021</h3>
