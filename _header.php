@@ -8,7 +8,7 @@
 </style>
 </head>
     <div>
-    	<h1 style="background-color: green; margin-bottom: 0;padding: 8px;">Secrets Manager</h1>
+    	<h1 style="background-color: yellow; margin-bottom: 0;padding: 8px;">Secrets Manager</h1>
     </div>
 <?php 
     require_once '../../_navbar.php';
